@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ff99aa;
+}
+
+.contact-img{
+    height: 200px;
+    width: 200px;
+}
+.head1{
+    margin-left:40px;
+}
